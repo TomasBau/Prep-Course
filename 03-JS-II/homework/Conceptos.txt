@@ -1,0 +1,9 @@
+CONCEPTOS:
+
+FOR: El termino for es un bucle el cual sirve para repetir tareas siempre y cuando se cumpla la condicion establecida, debiendo tambien señalar en este de a cuanto se irá sumando el valor que hara que en un punto el bucle deje de repetirse 
+
+&&: El operador logico "y" sirve para verificar si dos o mas condiciones booleanas se estan cumpliendo al mismo tiempo
+
+||: El operador "o" sirve cuando queremos que se cumpla uno de los valores booleanos, con el operador || si uno de los dos booleanos se cumplen se dara la condicion como verdadera
+
+!: El signo se explacación se utiliza para negar, ya sea un "igual", haciendo que este sea un "distinto", o colocandolo antes de un booleano y cambiado su valor de "true" a "false" o viceversa 
